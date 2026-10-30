@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="caesar-cipher-string/caesar-cipher-string.vcxproj" />
+</Solution>
